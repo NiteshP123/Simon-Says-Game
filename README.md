@@ -35,7 +35,7 @@ A simple Simon Says Game built using **HTML, CSS, and JavaScript**. Test your me
 
 ## 📸 Screenshot
 
-./screenshot.png
+[View Screenshot](./screenshot.png)
 
 ## 👨‍💻 Author
 
