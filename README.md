@@ -2,6 +2,10 @@
 
 A simple Simon Says Game built using **HTML, CSS, and JavaScript**. Test your memory by repeating the color sequence correctly. The sequence gets longer with each level, making the game more challenging.
 
+## 🌐 Live Demo
+
+[View Live Demo](https://niteshp123.github.io/Simon-Says-Game/)
+
 ## 🚀 Features
 
 - Random color sequence generation
