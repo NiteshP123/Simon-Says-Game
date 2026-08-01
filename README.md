@@ -4,7 +4,7 @@ A simple Simon Says Game built using **HTML, CSS, and JavaScript**. Test your me
 
 ## 🌐 Live Demo Link
 
-[Live Demo](https://spotify-clone-re19.netlify.app)
+[Live Demo](https://simon-says-game-075664.netlify.app)
 
 ## 🚀 Features
 
